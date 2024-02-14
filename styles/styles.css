@@ -1,0 +1,12 @@
+/* Google font */
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@400;500;600;700;800&display=swap');
+
+/* font family */
+.font-poppins{
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .font-anton{
+    font-family: 'Anton', sans-serif;
+  }
